@@ -1,0 +1,4 @@
+Lỗi 001: lỗi bên trong file duongdan.json
+Lỗi 002: không có file duongdan.json
+Lỗi 003: lỗi bên trong file thu.json
+Lỗi 004: không có file thu.json
